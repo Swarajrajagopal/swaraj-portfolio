@@ -10,7 +10,19 @@ export default function Home() {
   return (
     <div>
       <Head>
-  
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z9JB64XJPS"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-Z9JB64XJPS');
+        </script>`
+          }}
+        />
         <title>Swaraj Rajagopal</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -19,22 +31,23 @@ export default function Home() {
           rel="stylesheet"
         />
         <link
-                   rel="preload"
-                    href="/fonts/Roboto-Light.ttf"
-                    as="font"
-                    crossOrigin=""
-                  />
-                   <link
-                    rel="preload"
-                    href="/fonts/Roboto-Regular.ttf"
-                    as="font"
-                    crossOrigin=""
-                  /><link
-                    rel="preload"
-                    href="/fonts/Roboto-Bold.ttf"
-                    as="font"
-                    crossOrigin=""
-                  />
+          rel="preload"
+          href="/fonts/Roboto-Light.ttf"
+          as="font"
+          crossOrigin=""
+        />
+        <link
+          rel="preload"
+          href="/fonts/Roboto-Regular.ttf"
+          as="font"
+          crossOrigin=""
+        />
+        <link
+          rel="preload"
+          href="/fonts/Roboto-Bold.ttf"
+          as="font"
+          crossOrigin=""
+        />
         <meta name="description" content="Swaraj Rajagopal" />
         <meta name="og:title" content="Swaraj Rajagopal" />
       </Head>
