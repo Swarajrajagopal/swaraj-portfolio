@@ -6,9 +6,9 @@ export default function Work() {
     <div className="py-5 bg-black">
       <div className="flex justify-center my-16">
         <img
-          src="/Dashboard_profile_pic_bw.jpeg"
+          src="/Dashboard_profile_pic.jpg"
           alt="Yours truly Swaraj!"
-          className="h-40 w-40 rounded-full"
+          className="h-48 w-48 rounded-full"
         />
       </div>
       <div className="mb-5 font-sans text-center text-7xl font-bold">Swaraj Rajagopal</div>
