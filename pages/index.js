@@ -11,17 +11,19 @@ export default function Home() {
     <div>
       <Head>
         <script
-          dangerouslySetInnerHTML={{
-            __html: `
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z9JB64XJPS"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-        
-          gtag('config', 'G-Z9JB64XJPS');
-        </script>`
-          }}
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-Z9JB64XJPS"
+        />
+
+        <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-Z9JB64XJPS', { page_path: window.location.pathname });
+            `,
+            }}
         />
         <title>Swaraj Rajagopal</title>
         <link rel="icon" href="/favicon.ico" />
