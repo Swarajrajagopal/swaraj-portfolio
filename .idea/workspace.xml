@@ -22,6 +22,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1nlvp3dKO1VO9BLQKCdEuejUUnl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,24 +34,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.14.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/Casestudy_BE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="ide.date.format" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/Casestudy_BE" />
       <recent name="$PROJECT_DIR$/public/fonts" />
       <recent name="$PROJECT_DIR$/public/Casestudy_VMO" />
       <recent name="$PROJECT_DIR$/public/Casestudy_Footer" />
       <recent name="$PROJECT_DIR$/public/Casestudy_IPitch" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,6 +77,7 @@
       <workItem from="1614828767263" duration="3000" />
       <workItem from="1614828783415" duration="9162000" />
       <workItem from="1614916265515" duration="21753000" />
+      <workItem from="1627696012482" duration="3925000" />
     </task>
     <servers />
   </component>
@@ -93,6 +95,37 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom" timestamp="1627696905016">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/1920.-10.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1627696905016" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center" timestamp="1627696904999">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.center/1920.-10.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1627696904999" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left" timestamp="1627696904965">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.left/1920.-10.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1627696904965" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right" timestamp="1627696905015">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1878" height="264" key="GridCell.Tab.0.right/1920.-10.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1627696905015" />
+    <state x="461" y="150" key="SettingsEditor" timestamp="1627696921413">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="461" y="150" key="SettingsEditor/1920.-10.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1627696921413" />
+    <state x="538" y="266" width="1382" height="490" key="find.popup" timestamp="1627703213127">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="538" y="266" width="1382" height="490" key="find.popup/1920.-10.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1627703213127" />
+    <state x="625" y="238" width="670" height="678" key="search.everywhere.popup" timestamp="1627703628890">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state x="625" y="238" width="670" height="676" key="search.everywhere.popup/1920.-10.1440.877/0.23.1920.992@0.23.1920.992" timestamp="1627700754573" />
+    <state x="625" y="238" width="670" height="678" key="search.everywhere.popup/1920.-10.1440.877/0.23.1920.994@0.23.1920.994" timestamp="1627703628890" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

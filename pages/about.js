@@ -7,37 +7,36 @@ export default function About(props) {
       <div className="col-span-2 "></div>
       <div className=" col-span-4">
         <div className="pb-12 border-b border-white">
-          <div className="font-sans font-bold text-5xl">Rajesh Revoor</div>
+          <div className="font-sans font-bold text-5xl">Swaraj Rajagopal</div>
           <div className="mt-3 mb-10 font-serif font-extralight text-2xl">
-            User Experience Designer   |   HFI-CUA™
+            Marketing & Sales professional | FMCG
           </div>
           <div className="font-serif leading-7 text-base text-white">
             <div>
-              I’m a Certified Usability Analyst with over 8+ years of experience,
-              being an advocate for the user experience design process that
-              resonates in creating compelling designs for desktop, tablet, mobile
-              and other digital user interfaces. By synthesizing the needs and
-              goals of users, I offer stunning design deliverables and solutions
-              that accomplish and satisfy both the business inline initial
-              objectives and the user’s needs to fullfill their most pertinent
-              tasks at hand. I have handled UX projects on multiple industries
-              like Banking and Financial Services, Retirement, Insurance, Retail
-              and Life Sciences.
+              I’m a passionate Marketing professional with over 9+ years of
+              experience. With my strong analytical skills, I deep-dive on
+              various data such as InMarket data, Nielsen data, Epos data,
+              Quantitative surveys, Google analytics. Etc, to diagnose gaps and
+              opportunities before designing strategies.
             </div>
             <div className="my-5">
-              Specialized in UX design with high proficiencies in User Research,
-              Analyzing the research data, Customer Experience/User Journey Map,
-              Concept Sketching, Planning, Agile UX, Prototyping, Usability
-              Testing, Visual Design, and understanding HTML/CSS.
+              Being an advocate of strong execution, I enjoy transforming
+              strategies to actions on the ground to create impact and achieve
+              KPIs.
             </div>
             <div>
-              The framework which I follow to solve a complex problem into
-              elegant solutioning through <span className="font-serif font-bold">Research > Analyze > Design > Test</span>.
+              Tracking campaign performance vs KPIs is the key to do things
+              differently. One can’t continue to expect different results by
+              continuing to do the same thing! The framework which I follow to deliver results:
+              <span className="font-serif font-bold">
+                Analyze > Design > Execution > Track
+              </span>
+              .
             </div>
           </div>
         </div>
         <div className="mt-9 w-8 h-8 mb-4 flex items-center justify-center bg-white text-black text-md font-bold rounded-full cursor-pointer z-50">
-          <Link href="https://www.linkedin.com/in/rajeshrevoor/">
+          <Link href="https://ae.linkedin.com/in/swarajrajagopal">
             <span>in</span>
           </Link>
         </div>

@@ -34,8 +34,8 @@ export default function Home() {
                     as="font"
                     crossOrigin=""
                   />
-        <meta name="description" content="Rajesh Revoor portfolio website" />
-        <meta name="og:title" content="Rajesh Revoor" />
+        <meta name="description" content="Swaraj Rajagopal" />
+        <meta name="og:title" content="" />
       </Head>
     </div>
   );
