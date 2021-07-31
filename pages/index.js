@@ -35,7 +35,7 @@ export default function Home() {
                     crossOrigin=""
                   />
         <meta name="description" content="Swaraj Rajagopal" />
-        <meta name="og:title" content="" />
+        <meta name="og:title" content="Swaraj Rajagopal" />
       </Head>
     </div>
   );
